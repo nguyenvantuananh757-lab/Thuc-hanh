@@ -1,3 +1,8 @@
+print("sinh vien : nguyen van tuan anh")
+
+print("ma so sv :245751030110037")
+
+print("#############################")
 #cau 10
 ds=input('Nhap chuoi: ').split()
 if len(ds) >= 2:
@@ -6,3 +11,4 @@ else:
     new_ds = []
 
 print("List sau khi bỏ phần tử đầu và cuối:", new_ds)
+
