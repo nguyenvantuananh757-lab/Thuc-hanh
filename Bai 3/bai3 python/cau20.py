@@ -1,3 +1,8 @@
+print("sinh vien : nguyen van tuan anh")
+
+print("ma so sv :245751030110037")
+
+print("#############################")
 #cau 20
 n = int(input("Nhập n: "))
 
@@ -13,3 +18,4 @@ for i in range(n):
 # in tam giác Pascal
 for row in triangle:
     print(row)
+
