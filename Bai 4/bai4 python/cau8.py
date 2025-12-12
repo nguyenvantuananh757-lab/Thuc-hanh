@@ -1,3 +1,8 @@
+print("sinh vien : nguyen van tuan anh")
+
+print("ma so sv :245751030110037")
+
+print("#############################")
 #cau8
 class Bank:
     Account_type = "Savings"
@@ -90,3 +95,4 @@ class Bank:
 t1 = Bank("Mahesh", 1453210145, 5000)
 
 print(t1)
+
