@@ -1,3 +1,8 @@
+print("sinh vien : nguyen van tuan anh")
+
+print("ma so sv :245751030110037")
+
+print("#############################")
 #cau 2
 class Hinhchunhat(object):
     def __init__(self, dai, rong):
@@ -10,3 +15,4 @@ class Hinhchunhat(object):
 # Ví dụ sử dụng
 hcn = Hinhchunhat(5, 3)
 print(hcn.dientich())
+
