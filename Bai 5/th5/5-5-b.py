@@ -1,3 +1,8 @@
+print("sinh vien : nguyen van tuan anh")
+
+print("ma so sv :245751030110037")
+
+print("#############################")
 import tkinter as tk
 
 root = tk.Tk()
@@ -44,3 +49,4 @@ for language, val in languages:
                    ).pack(anchor=tk.W, padx=10) 
                    
 root.mainloop()
+
