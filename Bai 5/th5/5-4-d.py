@@ -1,3 +1,8 @@
+print("sinh vien : nguyen van tuan anh")
+
+print("ma so sv :245751030110037")
+
+print("#############################")
 from tkinter import *
 
 window = Tk()
@@ -19,3 +24,4 @@ btn = Button(window, text="Click Me", command=clicked, bg="green", fg="yellow")
 btn.grid(column=1, row=0)
 
 window.mainloop()
+
