@@ -1,3 +1,8 @@
+print("sinh vien : nguyen van tuan anh")
+
+print("ma so sv :245751030110037")
+
+print("#############################")
 import math
 pos=[0,0]
 while True:
@@ -19,3 +24,4 @@ while True:
         pass
     #####################
     print(int(round(math.sqrt(pos[1]**2+pos[0]**2))))
+
