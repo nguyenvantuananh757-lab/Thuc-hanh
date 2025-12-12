@@ -1,3 +1,8 @@
+print("sinh vien : nguyen van tuan anh")
+
+print("ma so sv :245751030110037")
+
+print("#############################")
 #cau 1
 class Circle(object):
     def __init__(self, r):
@@ -9,3 +14,4 @@ class Circle(object):
 # Ví dụ sử dụng
 aCircle = Circle(2)
 print(aCircle.area())
+
