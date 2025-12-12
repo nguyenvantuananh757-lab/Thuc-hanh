@@ -1,3 +1,8 @@
+print("sinh vien : nguyen van tuan anh")
+
+print("ma so sv :245751030110037")
+
+print("#############################")
 import turtle, random
 
 # Danh sách các màu sẽ được sử dụng
@@ -29,3 +34,4 @@ painter.setposition(0, 0)
 
 # Giữ cửa sổ đồ họa mở
 turtle.done()
+
