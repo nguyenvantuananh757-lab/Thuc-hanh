@@ -1,3 +1,8 @@
+print("sinh vien : nguyen van tuan anh")
+
+print("ma so sv :245751030110037")
+
+print("#############################")
 def get_sum(*num):
     tmp=0
     #duyet cac tham so
@@ -6,3 +11,4 @@ def get_sum(*num):
     return tmp
 result=get_sum(1,2,3,4,5)
 print(result)
+
