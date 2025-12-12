@@ -1,3 +1,8 @@
+print("sinh vien : nguyen van tuan anh")
+
+print("ma so sv :245751030110037")
+
+print("#############################")
 import turtle, random
 colosrs=["red", "green", "blue", "orange", "purple", "pink", "yellow"]
 painter = turtle.Turtle()
@@ -9,3 +14,4 @@ for i in range (100):
   painter.right (30)
   painter.left (60)
   painter.setposition (0, 0)
+
