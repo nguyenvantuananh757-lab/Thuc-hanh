@@ -1,3 +1,8 @@
+print("sinh vien : nguyen van tuan anh")
+
+print("ma so sv :245751030110037")
+
+print("#############################")
 #cau 7
 s = input("Nhập chuỗi: ")
 
@@ -7,3 +12,4 @@ for ch in s:
         new_s += ch
 
 print("Chuỗi sau khi bỏ chữ số:", new_s)
+
