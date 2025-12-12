@@ -1,3 +1,8 @@
+print("sinh vien : nguyen van tuan anh")
+
+print("ma so sv :245751030110037")
+
+print("#############################")
 import tkinter as tk
 
 root = tk.Tk()
@@ -38,3 +43,4 @@ for language, val in languages:
                    value=val).pack(anchor=tk.W) # Giá trị gán cho 'v' khi được chọn, căn lề trái (tk.W)
 
 root.mainloop()
+
