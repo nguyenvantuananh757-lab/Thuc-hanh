@@ -1,3 +1,8 @@
+print("sinh vien : nguyen van tuan anh")
+
+print("ma so sv :245751030110037")
+
+print("#############################")
 #cau 3
 class Nguoi(object):
     def getGender(self):
@@ -17,3 +22,4 @@ aNu = Nu()
 
 print(aNam.getGender())
 print(aNu.getGender())
+
