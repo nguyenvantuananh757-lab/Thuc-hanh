@@ -1,3 +1,8 @@
+print("sinh vien : nguyen van tuan anh")
+
+print("ma so sv :245751030110037")
+
+print("#############################")
 #cau 19
 limit = 1_000_000
 prime = [True] * (limit + 1)
@@ -10,3 +15,4 @@ for i in range(2, int(limit**0.5) + 1):
 
 P = tuple(i for i in range(limit + 1) if prime[i])
 print("Tuple P đã tạo xong, số lượng số nguyên tố:", len(P))
+
