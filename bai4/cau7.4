@@ -1,3 +1,8 @@
+print("sinh vien : nguyen van tuan anh")
+
+print("ma so sv :245751030110037")
+
+print("#############################")
 #cau7
 class Circle:
     def __init__(self, r):
@@ -14,3 +19,4 @@ class Circle:
 c = Circle(5)
 print("Diện tích:", c.area())
 print("Chu vi:", c.perimeter())
+
