@@ -1,3 +1,8 @@
+print("sinh vien : nguyen van tuan anh")
+
+print("ma so sv :245751030110037")
+
+print("#############################")
 #cau 5
 class py_solution:
     def roman_to_int(self, s):
@@ -24,3 +29,4 @@ class py_solution:
 print(py_solution().roman_to_int("MCMIV"))     # 1904
 print(py_solution().roman_to_int("MMMDCCCLXXX")) # 3880
 print(py_solution().roman_to_int("C"))         # 100
+
