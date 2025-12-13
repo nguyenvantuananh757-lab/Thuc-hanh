@@ -1,3 +1,8 @@
+print("sinh vien : nguyen van tuan anh")
+
+print("ma so sv :245751030110037")
+
+print("#############################")
 l=[1,'python',4,7]
 k=['cse',2,'guntur',8]
 m=[]
@@ -6,3 +11,4 @@ m.append(k);
 print(m)
 d={1:l,2:k,'combine_list':m}
 print(d)
+
