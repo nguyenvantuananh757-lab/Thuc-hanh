@@ -1,0 +1,17 @@
+#cau 26
+total = 0
+
+while True:
+    entry = input()
+    if not entry:  # Dòng trống -> kết thúc
+        break
+
+    type_, amount = entry.split()
+    amount = int(amount)
+
+    if type_ == 'D':
+        total += amount
+    elif type_ == 'W':
+        total -= amount
+
+print(total)
